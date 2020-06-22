@@ -1,0 +1,26 @@
+---GO INTO THAT FOLDER
+ 
+
+---git init
+
+---IF YOU WANT TO ADD ANY FILE THEN WRITE
+git add <filename>
+
+---IF YOU WANT TO CHECK STATUS
+git status
+
+---git commit -m "first commit"
+
+---ADD GIVEN LOCAL REPO IN GIT REMOTE REPO
+ git remote add origin https://github.com/vaishnavicool/Github-learning.git
+                                                              |
+                                                         name of repo
+
+
+--- git push -u origin master
+
+
+                                        
+
+
+
